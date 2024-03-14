@@ -1,8 +1,13 @@
 [package]
 name = "eytukan"
-version = "0.1.0"
+version = "0.0.1"
 edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+license = "GPL-2.0-or-later"
+keywords = [""]
+categories = ["development-tools",""]
+readme = "README.md"
+authors = ["Willy Micieli"]
+repository = "https://github.com/otechdo/eytukan"
+description = ""
 
 [dependencies]
